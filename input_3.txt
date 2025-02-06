@@ -1,0 +1,9 @@
+1 1 2 3
+2 4 5 6
+[Charger Availability Reports]
+1 10 20 true
+2 15 25 true
+3 30 40 true
+4 35 45 true
+5 40 50 true
+6 50 60 true
